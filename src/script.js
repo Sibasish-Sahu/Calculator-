@@ -1,21 +1,4 @@
-// let input = document.getElementById("inputbox")
-// let buttons = document.querySelector("button")
-// let string = "";
-// let arr = Array.from(buttons)
-// arr.forEach(button => {
-//     button.addEventListener('click', (e) =>{
-//         if(e.target.innerHTML == '='){
-//             string = eval(string);
-//             input.value = string;
-//         }
 
-//         string += e.target.innerHTML;
-//         input.value = string;
-
-     
-
-//     })
-// })
 
 let input = document.getElementById("inputbox");  // input field to display the value
 let buttons = document.querySelectorAll("button");  // get all buttons on the page
