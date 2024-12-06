@@ -5,4 +5,3 @@ let arr = Array.from(buttons)
 arr.forEach(button => {
     button.addEventListener('click', )
 })
-    
